@@ -1,0 +1,6 @@
+{
+  "name": "1 Minuto Para Mí",
+  "description": "Pausa activa de 1 minuto para el personal de Medicina Física y Rehabilitación del HUV con ejercicios de respiración, estiramiento, relajación y descanso visual con guías silenciosas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
